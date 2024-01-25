@@ -9,4 +9,5 @@ La documentación relacionada con el microservicio se encuentra disponible en el
 El resto de documentación relacionada con el proyecto se encuentra almacenada en el siguiente repositorio: https://github.com/Noctua-sapientia/docs  
 El frontend puede encontrarlo en el repositorio: https://github.com/Noctua-sapientia/frontend/tree/develop
 
+Para arrancar el backend se recomienda utilizar el Dockerfile presente en el repositorio.
 
